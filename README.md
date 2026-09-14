@@ -96,6 +96,10 @@ You decide what AI agents can do with each connected account:
 "Compare dead clicks across browsers"
 ```
 
+## Pricing
+
+The Microsoft Clarity MCP server is included in every InsightfulPipe plan, together with all other MCP servers and the CLI. Plans start at $29.99/month with a 7-day free trial. See [insightfulpipe.com/pricing](https://insightfulpipe.com/pricing) for current plans.
+
 ## Ready-Made Skills and Prompts
 
 - [Claude skills for measurement and analytics](https://insightfulpipe.com/marketing-claude-skills/measurement) — ready-made skills that run on your connected data
